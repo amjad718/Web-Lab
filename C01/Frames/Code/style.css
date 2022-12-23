@@ -1,0 +1,92 @@
+.header{
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Baloo Bhai 2', cursive;
+    text-decoration: underline;
+    background-color: orange;
+}
+
+.footer{
+    text-align: center;
+    padding: 15px;
+    font-size: 1.5rem;
+    font-family: 'Baloo Bhai 2', cursive;
+    background-color: green;
+}
+
+.visit a{
+    display: block;
+    text-align: center;
+    padding-top: 3rem;
+    margin-top: 107px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.taj h3{
+    margin-left: 510px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 1.5rem;
+}
+
+.taj p{
+    margin-left: 0px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
+.taj iframe{
+    margin-left: 230px;
+    height: 500px;
+    width: 1000px;
+}
+
+.lotus h3{
+    margin-left: 510px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 1.5rem;
+}
+
+.lotus p{
+    margin-left: 0px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
+.lotus iframe{
+    margin-top: 102px;
+    margin-left: 300px;
+    height: 345px;
+    width: 739px;
+}
+
+.qutub h3{
+    margin-left: 510px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 1.5rem;
+}
+
+.qutub p{
+    margin-left: 0px;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 1.3rem;
+    text-align: justify;
+}
+
+.qutub img{
+    margin-top: -50px;
+    margin-left: 375px;
+    height: 498px;
+    width: 564px;
+}
+
+.taj, .qutub, .lotus{
+    background-color: #C4FDFF;
+}
+
+#bodi{
+    background-color: #C4FDFF;
+}
